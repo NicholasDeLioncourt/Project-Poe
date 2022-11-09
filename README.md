@@ -1,4 +1,4 @@
-# Project-Poe
+# Project.Poe
 
 I name all my personal coding projects according to 
 my favorite writers:
@@ -9,7 +9,10 @@ my favorite writers:
 * (Jack) London,
 * etc &c.
 
-This one is; of course, Project (Edgar Allan) Poe.
+And now; of course, Project (Edgar Allan) Poe.
+
+Not so strange; at least I did not choose great
+moments in potato history.
 
 This should be sufficient evidence to prove that
 coding too long leads to variations of nerd insanity.
